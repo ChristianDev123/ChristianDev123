@@ -1,6 +1,6 @@
 # Olá eu sou o Christian!
 
-- 🔭 Estou no Terceiro Semestre de Desenvolvimento de Sistemas, SENAI Suiço-Brasileiro; 
+- 🔭 Estou no último semestre do técnico em Desenvolvimento de Sistemas, SENAI Suiço-Brasileiro; 
 - 🌱 Minha ambição é me tornar um grande programador;
 - 🌆 Meu conhecimento se concentra principalmente em Front-End;
 - 🤔 18 anos;
@@ -56,5 +56,5 @@
 <div> 
   <a href="https://www.instagram.com/christian_l.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:christian.lima999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/christian-santana-040821214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/christian-santana-developer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>

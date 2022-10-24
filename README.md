@@ -1,6 +1,7 @@
 # Olá eu sou o Christian!
 
 - 🔭 Estou no último semestre do técnico em Desenvolvimento de Sistemas, SENAI Suiço-Brasileiro; 
+- 💻 Sou analista de suporte técnico na Locaweb, uma das maiores empresas de hospedagem de sites do Brasil;
 - 🌱 Minha ambição é me tornar um grande programador;
 - 🌆 Meu conhecimento se concentra principalmente em Front-End;
 - 🤔 18 anos;

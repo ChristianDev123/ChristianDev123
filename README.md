@@ -1,7 +1,7 @@
 # Olá eu sou o Christian!
 
 - 🔭 Estou cursando Ciências da Computação no SENAC Santo Amaro; 
-- 💻 Sou analista de suporte técnico na Locaweb, uma das maiores empresas de hospedagem de sites do Brasil;
+- 💻 trabalho como desevolvedor estágiário no Intrabank;
 - 🌱 Minha ambição é me tornar um grande programador;
 - 🌆 Tenho focado em Back-End;
 - 🤔 19 anos;

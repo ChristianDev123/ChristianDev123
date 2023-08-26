@@ -9,14 +9,15 @@
 ## Principais Ferramentas de Desenvolvimento: 
 
 - Linux Mint Cinnamon;
-- Windows 10 e 11; 
-- Visual Studio 2022 (Desenvolvimento C# Windows Forms);
+- Windows 10 e 11;
+- Visual Studio 2022 C#;
 - Visual Studio Code (Windows e Linux);
 
 ## Principais Stacks:
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30" /> Java Script (Node.JS, Vue.JS, React.JS, React-Native);
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="30"/> Xampp (Linux ou Windows, Apache, MySql, PHP);
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="30"/> .NET (ASP.CORE, PostgresSQL);
 
 ## Principais Tecnologias:
 
@@ -36,12 +37,14 @@
 
 ### Back-End
 
-- <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-    Node.JS (Express, Sequelize, Cors);
+- <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> Node.JS (Express, Sequelize, Cors);
 
 - <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/> Laravel;
 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="30"/> ASP.NET Core;
+
 ### Mobile
+
 - <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"> React-Native;
 
 ## Status:

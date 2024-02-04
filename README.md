@@ -1,10 +1,10 @@
 # Olá eu sou o Christian!
 
 - 🔭 Estou cursando Ciências da Computação no SENAC Santo Amaro; 
-- 💻 Trabalho como desevolvedor junior no Intrabank Asset, sendo esta uma empresa no ramo financeiro;
+- 💻 MInha ultima experiência profissional trabalhei em uma empresa no ramo financeiro (FIDC);
 - 🌱 Minha ambição é me tornar um grande programador;
 - 🌆 Tenho focado em Back-End;
-- 🤔 19 anos;
+- 🤔 20 anos;
 
 ## Principais Ferramentas de Desenvolvimento: 
 

@@ -1,9 +1,8 @@
 # Olá eu sou o Christian!
 
 - 🔭 Estou cursando Ciências da Computação no SENAC Santo Amaro; 
-- 💻 MInha ultima experiência profissional trabalhei em uma empresa no ramo financeiro (FIDC);
-- 🌱 Minha ambição é me tornar um grande programador;
-- 🌆 Tenho focado em Back-End;
+- 💻 Trabalho atualmente em análise de dados no Santander;
+- 🌱 Minha maior ambição é estar cada vez mais imerso no mundo da tecnologia;
 - 🤔 20 anos;
 
 ## Principais Ferramentas de Desenvolvimento: 

@@ -3,7 +3,7 @@
 - 🔭 Estou cursando Ciências da Computação no SENAC Santo Amaro; 
 - 💻 Trabalho atualmente em análise de dados no Santander;
 - 🌱 Minha maior ambição é estar cada vez mais imerso no mundo da tecnologia;
-- 🤔 20 anos;
+- 🤔 22 anos;
 
 ## Principais Ferramentas de Desenvolvimento: 
 

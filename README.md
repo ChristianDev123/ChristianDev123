@@ -1,7 +1,7 @@
 # Olá eu sou o Christian!
 
 - 🔭 Estou cursando Ciências da Computação no SENAC Santo Amaro; 
-- 💻 Trabalho atualmente em análise de dados no Santander;
+- 💻 Trabalho atualmente em análise de dados e automação na TOOLS Digital Solutions (Grupo Santander);
 - 🌱 Minha maior ambição é estar cada vez mais imerso no mundo da tecnologia;
 - 🤔 22 anos;
 
